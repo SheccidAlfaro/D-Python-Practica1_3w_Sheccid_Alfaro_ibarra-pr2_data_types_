@@ -1,7 +1,7 @@
 # D-Python-Practica1_3w_Sheccid_Alfaro_ibarra-pr2_data_types_
 Envío de la segunda practica, se suma variables 
 print("")
-print("Sheccid Alfaro Ibarra 3W")
+print("Alfaro Ibarra Sheccid 3W")
 x=10 #definir variable x
 y=20 #definir variable y
 
@@ -12,4 +12,4 @@ print (x+y) #se muestra en  pantalla la suma de las dos variables
 
 print("")
 
-![image](https://github.com/user-attachments/assets/8f435774-3dfc-47d7-8aeb-45bc8f38c5f3)
+![image](https://github.com/user-attachments/assets/9e1601de-ce41-46d3-b8ab-84e5c9b6c17d)
